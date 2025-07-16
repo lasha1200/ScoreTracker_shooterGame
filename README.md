@@ -1,5 +1,5 @@
 
-# Call of Duty Score Statistics Tracker
+# Shooter Game (like Call of Duty) Score Statistics Tracker
 
 This C++ application is a console-based statistics tracker designed for players of the video game **Call of Duty**. It enables players to log gameplay data, analyze their performance, and calculate a final score based on custom scoring rules.
 
